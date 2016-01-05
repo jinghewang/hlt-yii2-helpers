@@ -1,0 +1,15 @@
+{
+    "name": "hlt/yii2-helpers",
+    "description": "yii2 helpers. The helpers integration for the Yii framework.",
+    "keywords": ["yii2", "helpers", "hlt"],
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "robin",
+            "email": "94209358@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    }
+}
